@@ -1,0 +1,33 @@
+  
+  p{
+      color: brown;
+  }
+  h1{
+      color:aqua;
+  }
+  *{
+      border: transparent;
+
+
+  }
+  .header{
+      color:black;
+      background-color: blue;
+      display:flex;
+      justify-content: space-between;
+  }
+  .menu{
+      color: violet;
+  }
+  .grid{
+      display:flex;
+      flex-wrap:wrap;
+      justify-content: space-evenly;
+  }
+  .footer{
+      display:flex;
+      justify-content: flex-end;
+  }
+  p,h2{
+      text-align: center;
+  }
